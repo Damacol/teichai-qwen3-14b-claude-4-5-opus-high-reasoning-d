@@ -1,4 +1,4 @@
-# TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF - Private, Uncensored AI for Real Creators and Devs
+# TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
